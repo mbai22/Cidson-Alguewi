@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -32,11 +32,11 @@
                 <div class="nav-links" id="navLinks">
                     <a href="/#home">Accueil</a>
                     <a href="/biographie" @yield('nav-bio')>Bio</a>
-                    <a href="/#music">Musique</a>
+                    <a href="/musique" @yield('nav-musique')>Musique</a>
                     <a href="/armee-rouge" @yield('nav-armee')>Armée Rouge</a>
                     <a href="/galerie" @yield('nav-galerie')>Galerie</a>
-                    <a href="/#concerts">Événements</a>
-                    <a href="/#press">Presse</a>
+                    <a href="/blog" @yield('nav-blog')>Blog</a>
+                    <a href="/evenements" @yield('nav-evenements')>Événements</a>
                     <a href="/#contact">Contact</a>
                 </div>
                 <button class="menu-toggle" id="menuToggle" aria-label="Ouvrir le menu" aria-expanded="false">
@@ -102,3 +102,5 @@
     @yield('page-scripts')
 </body>
 </html>
+
+

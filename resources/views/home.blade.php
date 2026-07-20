@@ -21,8 +21,8 @@
                 <p class="hero-tagline">Le Maître d'Œuvre du <span class="text-highlight">Saïtonic</span></p>
 
                 <div class="hero-buttons">
-                    <a href="#music" class="btn btn-primary">Écouter la Musique</a>
-                    <a href="#about" class="btn btn-outline">Découvrir le Parcours</a>
+                    <a href="/musique" class="btn btn-primary">Écouter la Musique</a>
+                    <a href="/biographie" class="btn btn-outline">Découvrir le Parcours</a>
                 </div>
             </div>
         </div>
@@ -93,151 +93,59 @@
         <div class="container">
             <div class="section-header">
                 <h2 class="section-title">Ma <span class="text-highlight">Musique</span></h2>
-                <p class="section-subtitle">Découvrez ma discographie complète et mes dernières sorties</p>
+                <p class="section-subtitle">Singles, albums et hits — découvrez ma discographie complète</p>
                 <div class="title-underline"></div>
             </div>
 
-            <div class="latest-releases">
-                <h3 class="subsection-title">Singles Populaires</h3>
-                <div class="music-grid">
-                    <div class="music-card">
-                        <div class="music-image">
-                            <img src="./img/audio-cidson.jpg" alt="Saïtonic Mondiale" loading="lazy">
-                            <div class="music-overlay">
-                                <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="play-button-music">
-                                    <svg class="play-icon" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="music-content">
-                            <h4 class="music-title">Saïtonic Mondiale</h4>
-                            <p class="music-year">Hit Saïtonic</p>
-                            <div class="music-links">
-                                <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="stream-link">YouTube</a>
-                            </div>
+            <div class="music-grid">
+                <div class="music-card">
+                    <div class="music-image">
+                        <img src="./img/audio-cidson.jpg" alt="Saïtonic Mondiale" loading="lazy">
+                        <div class="music-overlay">
+                            <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="play-button-music">
+                                <svg class="play-icon" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                            </a>
                         </div>
                     </div>
+                    <div class="music-content">
+                        <h4 class="music-title">Saïtonic Mondiale</h4>
+                        <p class="music-year">Hit Saïtonic</p>
+                    </div>
+                </div>
 
-                    <div class="music-card">
-                        <div class="music-image">
-                            <img src="./img/audio-cidson-2.jpg" alt="Sao du Tchad" loading="lazy">
-                            <div class="music-overlay">
-                                <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="play-button-music">
-                                    <svg class="play-icon" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="music-content">
-                            <h4 class="music-title">Sao du Tchad</h4>
-                            <p class="music-year">Classique Tchadien</p>
-                            <div class="music-links">
-                                <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="stream-link">YouTube</a>
-                            </div>
+                <div class="music-card">
+                    <div class="music-image">
+                        <img src="./img/audio-cidson-2.jpg" alt="Sao du Tchad" loading="lazy">
+                        <div class="music-overlay">
+                            <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="play-button-music">
+                                <svg class="play-icon" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                            </a>
                         </div>
                     </div>
+                    <div class="music-content">
+                        <h4 class="music-title">Sao du Tchad</h4>
+                        <p class="music-year">Classique Tchadien</p>
+                    </div>
+                </div>
 
-                    <div class="music-card">
-                        <div class="music-image">
-                            <img src="./img/audio-cidson-3.jpg" alt="Love Me" loading="lazy">
-                            <div class="music-overlay">
-                                <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="play-button-music">
-                                    <svg class="play-icon" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                                </a>
-                            </div>
+                <div class="music-card">
+                    <div class="music-image">
+                        <img src="./img/audio-cidson-3.jpg" alt="Love Me" loading="lazy">
+                        <div class="music-overlay">
+                            <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="play-button-music">
+                                <svg class="play-icon" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                            </a>
                         </div>
-                        <div class="music-content">
-                            <h4 class="music-title">Love Me</h4>
-                            <p class="music-year">Romantique</p>
-                            <div class="music-links">
-                                <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="stream-link">YouTube</a>
-                            </div>
-                        </div>
+                    </div>
+                    <div class="music-content">
+                        <h4 class="music-title">Love Me</h4>
+                        <p class="music-year">Romantique</p>
                     </div>
                 </div>
             </div>
 
-            <div class="albums-section">
-                <h3 class="subsection-title">Albums</h3>
-                <div class="albums-grid">
-                    <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="album-card">
-                        <div class="album-cover">
-                            <img src="./img/album-1.jpg" alt="Champions League" loading="lazy">
-                            <div class="album-overlay">
-                                <svg class="play-icon-album" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                            </div>
-                        </div>
-                        <div class="album-info">
-                            <h4 class="album-title">Champions League</h4>
-                            <p class="album-year">2006 — Maxi Single</p>
-                        </div>
-                    </a>
-
-                    <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="album-card">
-                        <div class="album-cover">
-                            <img src="./img/Galerie/g-5.jpg" alt="Total Control" loading="lazy">
-                            <div class="album-overlay">
-                                <svg class="play-icon-album" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                            </div>
-                        </div>
-                        <div class="album-info">
-                            <h4 class="album-title">Total Control</h4>
-                            <p class="album-year">2009 — réédité en 2012</p>
-                        </div>
-                    </a>
-
-                    <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="album-card">
-                        <div class="album-cover">
-                            <img src="./img/album-2.jpg" alt="Air Force One" loading="lazy">
-                            <div class="album-overlay">
-                                <svg class="play-icon-album" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                            </div>
-                        </div>
-                        <div class="album-info">
-                            <h4 class="album-title">Air Force One</h4>
-                            <p class="album-year">2013</p>
-                        </div>
-                    </a>
-
-                    <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="album-card">
-                        <div class="album-cover">
-                            <img src="./img/Galerie/g-6.jpg" alt="Tension" loading="lazy">
-                            <div class="album-overlay">
-                                <svg class="play-icon-album" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                            </div>
-                        </div>
-                        <div class="album-info">
-                            <h4 class="album-title">Tension</h4>
-                            <p class="album-year">2019</p>
-                        </div>
-                    </a>
-
-                    <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="album-card">
-                        <div class="album-cover">
-                            <img src="./img/concert/c-1.jpg" alt="Tricolor" loading="lazy">
-                            <div class="album-overlay">
-                                <svg class="play-icon-album" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                            </div>
-                        </div>
-                        <div class="album-info">
-                            <h4 class="album-title">Tricolor</h4>
-                            <p class="album-year">2020 — Maxi Single</p>
-                        </div>
-                    </a>
-
-                    <a href="https://youtube.com/@cidson1307" target="_blank" rel="noopener noreferrer" class="album-card album-card-new">
-                        <div class="album-cover">
-                            <img src="./img/concert/C-2.jpg" alt="ETREIZE" loading="lazy">
-                            <div class="album-overlay">
-                                <svg class="play-icon-album" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                            </div>
-                            <span class="album-badge-new">NOUVEAU</span>
-                        </div>
-                        <div class="album-info">
-                            <h4 class="album-title">ETREIZE</h4>
-                            <p class="album-year">2025 — Sortie récente</p>
-                        </div>
-                    </a>
-                </div>
+            <div style="text-align:center;margin-top:var(--spacing-xl);">
+                <a href="/musique" class="btn btn-outline">Voir toute la Discographie</a>
             </div>
         </div>
     </section>
@@ -398,9 +306,8 @@
                 </article>
             </div>
 
-            <div class="booking-cta">
-                <h3>Vous souhaitez me booker pour un événement ?</h3>
-                <a href="#contact" class="btn btn-primary">Contact Booking</a>
+            <div style="text-align:center;margin-top:var(--spacing-xl);">
+                <a href="/evenements" class="btn btn-outline">Voir tous les Événements</a>
             </div>
         </div>
     </section>
@@ -648,11 +555,11 @@
 
                 <div class="footer-links">
                     <h4 class="footer-title">Navigation</h4>
-                    <a href="#home" class="footer-link">Accueil</a>
-                    <a href="#about" class="footer-link">Bio</a>
-                    <a href="#music" class="footer-link">Musique</a>
-                    <a href="#community" class="footer-link">Armée Rouge</a>
-                    <a href="#contact" class="footer-link">Contact</a>
+                    <a href="/#home" class="footer-link">Accueil</a>
+                    <a href="/biographie" class="footer-link">Bio</a>
+                    <a href="/musique" class="footer-link">Musique</a>
+                    <a href="/armee-rouge" class="footer-link">Armée Rouge</a>
+                    <a href="/#contact" class="footer-link">Contact</a>
                 </div>
 
                 <div class="footer-social">
@@ -684,3 +591,7 @@
 @section('page-scripts')
     <script src="/script.js"></script>
 @endsection
+
+
+
+

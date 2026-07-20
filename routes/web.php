@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 use Illuminate\Support\Facades\Route;
 
@@ -21,6 +21,18 @@ Route::get('/armee-rouge', function () {
 Route::get('/a-propos', function () {
     return view('about');
 })->name('about');
+
+Route::get('/musique', function () {
+    return view('musique');
+})->name('musique');
+
+Route::get('/evenements', function () {
+    return view('evenements');
+})->name('evenements');
+
+Route::get('/blog', function () {
+    return view('blog');
+})->name('blog');
 
 use App\Http\Controllers\ContactController;
 
