@@ -1,4 +1,4 @@
-﻿@extends('layouts.app')
+@extends('layouts.app')
 
 @section('head-extra')
     <link rel="preload" as="image" href="/img/hero.gif">
@@ -533,7 +533,8 @@
             </video>
         </div>
     </div>
-@endsection@section('page-scripts')
+@endsection
+@section('page-scripts')
     <script src="/script.js"></script>
 @endsection
 

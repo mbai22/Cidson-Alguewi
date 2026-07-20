@@ -1,4 +1,4 @@
-﻿@extends('layouts.app')
+@extends('layouts.app')
 
 @section('page-title', 'À Propos')
 @section('meta-description', 'À propos de Cidson Alguewi - L\'Astre de Lumière, artiste tchadien, créateur du Saïtonic.')

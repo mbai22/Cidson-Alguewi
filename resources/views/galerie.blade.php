@@ -1,4 +1,4 @@
-﻿@extends('layouts.app')
+@extends('layouts.app')
 
 @section('page-title', 'Galerie')
 @section('meta-description', 'Galerie photos de Cidson Alguewi - Concerts, studio, backstage et moments capturés.')
