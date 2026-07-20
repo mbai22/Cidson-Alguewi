@@ -44,12 +44,17 @@
                         <p class="blog-card-excerpt">
                             Après plusieurs années de travail en studio, ETREIZE voit le jour. Ce sixième album marque une nouvelle ère pour le Saïtonic, avec des sonorités plus modernes tout en préservant l'âme du Saï traditionnel tchadien. Découvrez les coulisses de cette création et les histoires qui se cachent derrière chaque titre.
                         </p>
+                        <div class="blog-card-meta">
+                            <span class="blog-author">Par Cidson Alguewi</span>
+                            <span class="blog-separator">·</span>
+                            <span class="blog-read-time">5 min de lecture</span>
+                        </div>
+                                            <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
+                            <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+                            </svg>
+                        </a>
                     </div>
-                    <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
-                        <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-                        </svg>
-                    </a>
 </article>
             </div>
 
@@ -71,12 +76,17 @@
                         <p class="blog-card-excerpt">
                             Retour sur mon expérience au Tourasna Festival en Allemagne. Une occasion unique de représenter la musique tchadienne devant un public international passionné et curieux.
                         </p>
+                        <div class="blog-card-meta">
+                            <span class="blog-author">Par Cidson Alguewi</span>
+                            <span class="blog-separator">·</span>
+                            <span class="blog-read-time">4 min de lecture</span>
+                        </div>
+                                            <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
+                            <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+                            </svg>
+                        </a>
                     </div>
-                    <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
-                        <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-                        </svg>
-                    </a>
 </article>
 
                 <article class="blog-card">
@@ -96,12 +106,17 @@
                         <p class="blog-card-excerpt">
                             Plongée dans mon processus créatif : de la première mélodie à la mix finale. Comment le Saï traditionnel se mêle aux beats électro pour créer un son unique.
                         </p>
+                        <div class="blog-card-meta">
+                            <span class="blog-author">Par Cidson Alguewi</span>
+                            <span class="blog-separator">·</span>
+                            <span class="blog-read-time">6 min de lecture</span>
+                        </div>
+                                            <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
+                            <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+                            </svg>
+                        </a>
                     </div>
-                    <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
-                        <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-                        </svg>
-                    </a>
 </article>
 
                 <article class="blog-card">
@@ -121,12 +136,17 @@
                         <p class="blog-card-excerpt">
                             Comment l'Armée Rouge est née et pourquoi cette communauté est au cœur de mon parcours. Une révolution musicale portée par la passion et l'unité.
                         </p>
+                        <div class="blog-card-meta">
+                            <span class="blog-author">Par Cidson Alguewi</span>
+                            <span class="blog-separator">·</span>
+                            <span class="blog-read-time">4 min de lecture</span>
+                        </div>
+                                            <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
+                            <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+                            </svg>
+                        </a>
                     </div>
-                    <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
-                        <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-                        </svg>
-                    </a>
 </article>
 
                 <article class="blog-card">
@@ -146,12 +166,17 @@
                         <p class="blog-card-excerpt">
                             Mon regard sur l'évolution de la musique au Tchad, les défis et les opportunités pour les artistes de nouvelle génération qui veulent se faire entendre.
                         </p>
+                        <div class="blog-card-meta">
+                            <span class="blog-author">Par Cidson Alguewi</span>
+                            <span class="blog-separator">·</span>
+                            <span class="blog-read-time">7 min de lecture</span>
+                        </div>
+                                            <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
+                            <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+                            </svg>
+                        </a>
                     </div>
-                    <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
-                        <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-                        </svg>
-                    </a>
 </article>
 
                 <article class="blog-card">
@@ -171,12 +196,17 @@
                         <p class="blog-card-excerpt">
                             Souvenirs du Festival Panafricain des Arts et de la Musique au Congo. Un moment historique qui a ouvert les portes de l'international pour la musique tchadienne.
                         </p>
+                        <div class="blog-card-meta">
+                            <span class="blog-author">Par Cidson Alguewi</span>
+                            <span class="blog-separator">·</span>
+                            <span class="blog-read-time">5 min de lecture</span>
+                        </div>
+                                            <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
+                            <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+                            </svg>
+                        </a>
                     </div>
-                    <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
-                        <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-                        </svg>
-                    </a>
 </article>
 
                 <article class="blog-card">
@@ -196,12 +226,17 @@
                         <p class="blog-card-excerpt">
                             Comment le Saïtonic est né de la rencontre entre le Saï traditionnel, la rumba congolaise et les beats modernes. L'histoire d'un genre qui fait vibrer tout le Tchad.
                         </p>
+                        <div class="blog-card-meta">
+                            <span class="blog-author">Par Cidson Alguewi</span>
+                            <span class="blog-separator">·</span>
+                            <span class="blog-read-time">5 min de lecture</span>
+                        </div>
+                                            <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
+                            <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
+                            </svg>
+                        </a>
                     </div>
-                    <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
-                        <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-                        </svg>
-                    </a>
 </article>
             </div>
 
@@ -217,8 +252,4 @@
         </div>
     </section>
 @endsection
-
-
-
-
 

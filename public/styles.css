@@ -1703,7 +1703,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .blog-card {
-    position: relative;
     background: var(--color-card);
     border-radius: 16px;
     overflow: hidden;
@@ -1855,24 +1854,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
-
 .blog-card-arrow {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 44px;
-    height: 44px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     background: var(--color-red);
     color: #fff;
     position: absolute;
-    bottom: 1.25rem;
-    right: 1.25rem;
+    bottom: clamp(1rem, 3vw, 1.5rem);
+    right: clamp(1rem, 3vw, 1.5rem);
     transition: all 0.3s ease;
     text-decoration: none;
-    box-shadow: 0 4px 12px rgba(192, 57, 43, 0.35);
-    z-index: 5;
+    flex-shrink: 0;
 }
 
 .blog-card-arrow svg {
@@ -1891,6 +1887,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .blog-card-content {
+    position: relative;
 }
 
 /* Responsive Design */
@@ -2559,8 +2556,6 @@ img {
     color: var(--color-red);
     border: 1px solid rgba(192, 57, 43, 0.3);
 }
-
-
 
 
 
