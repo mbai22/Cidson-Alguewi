@@ -1790,6 +1790,7 @@ h1, h2, h3, h4, h5, h6 {
     flex-direction: column;
     gap: 0.75rem;
 }
+    position: relative;
 
 .blog-card-tags {
     display: flex;
@@ -1850,6 +1851,43 @@ h1, h2, h3, h4, h5, h6 {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr));
     gap: clamp(1rem, 3vw, 1.5rem);
+}
+
+
+.blog-card-arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--color-red);
+    color: #fff;
+    position: absolute;
+    bottom: clamp(1rem, 3vw, 1.5rem);
+    right: clamp(1rem, 3vw, 1.5rem);
+    transition: all 0.3s ease;
+    text-decoration: none;
+    flex-shrink: 0;
+}
+
+.blog-card-arrow svg {
+    width: 18px;
+    height: 18px;
+    transition: transform 0.3s ease;
+}
+
+.blog-card-arrow:hover {
+    background: var(--color-red-dark);
+    transform: scale(1.1);
+}
+
+.blog-card-arrow:hover svg {
+    transform: translateX(3px);
+}
+
+.blog-card-content {
+    position: relative;
 }
 
 /* Responsive Design */
@@ -2518,6 +2556,7 @@ img {
     color: var(--color-red);
     border: 1px solid rgba(192, 57, 43, 0.3);
 }
+
 
 
 
