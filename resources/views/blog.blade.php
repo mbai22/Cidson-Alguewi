@@ -1,4 +1,4 @@
-﻿@extends('layouts.app')
+@extends('layouts.app')
 
 @section('page-title', "Blog — CIDSON ALGUEWI | Actualités, Coulisses & Réflexions")
 @section('meta-description', "Le blog de Cidson Alguewi : actualités musicales, coulisses du studio, réflexions sur la musique tchadienne et les Coulisses du Saïtonic.")
@@ -49,13 +49,8 @@
                             <span class="blog-separator">·</span>
                             <span class="blog-read-time">5 min de lecture</span>
                         </div>
-                                            <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
-                            <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-                            </svg>
-                        </a>
                     </div>
-</article>
+                </article>
             </div>
 
             <div class="blog-grid">
@@ -81,13 +76,8 @@
                             <span class="blog-separator">·</span>
                             <span class="blog-read-time">4 min de lecture</span>
                         </div>
-                                            <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
-                            <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-                            </svg>
-                        </a>
                     </div>
-</article>
+                </article>
 
                 <article class="blog-card">
                     <div class="blog-card-image">
@@ -111,13 +101,8 @@
                             <span class="blog-separator">·</span>
                             <span class="blog-read-time">6 min de lecture</span>
                         </div>
-                                            <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
-                            <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-                            </svg>
-                        </a>
                     </div>
-</article>
+                </article>
 
                 <article class="blog-card">
                     <div class="blog-card-image">
@@ -141,13 +126,8 @@
                             <span class="blog-separator">·</span>
                             <span class="blog-read-time">4 min de lecture</span>
                         </div>
-                                            <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
-                            <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-                            </svg>
-                        </a>
                     </div>
-</article>
+                </article>
 
                 <article class="blog-card">
                     <div class="blog-card-image">
@@ -171,13 +151,8 @@
                             <span class="blog-separator">·</span>
                             <span class="blog-read-time">7 min de lecture</span>
                         </div>
-                                            <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
-                            <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-                            </svg>
-                        </a>
                     </div>
-</article>
+                </article>
 
                 <article class="blog-card">
                     <div class="blog-card-image">
@@ -201,13 +176,8 @@
                             <span class="blog-separator">·</span>
                             <span class="blog-read-time">5 min de lecture</span>
                         </div>
-                                            <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
-                            <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-                            </svg>
-                        </a>
                     </div>
-</article>
+                </article>
 
                 <article class="blog-card">
                     <div class="blog-card-image">
@@ -231,13 +201,8 @@
                             <span class="blog-separator">·</span>
                             <span class="blog-read-time">5 min de lecture</span>
                         </div>
-                                            <a href="#" class="blog-card-arrow" aria-label="Lire l'article">
-                            <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
-                            </svg>
-                        </a>
                     </div>
-</article>
+                </article>
             </div>
 
             <div class="blog-cta" style="text-align:center;margin-top:var(--spacing-2xl);">
@@ -252,4 +217,3 @@
         </div>
     </section>
 @endsection
-
